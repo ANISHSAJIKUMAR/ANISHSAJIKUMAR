@@ -37,13 +37,6 @@ DevOps engineer building automation, observability, and platform tooling.
 - Python
 - Node.js
 
-## What Makes This Profile Stronger
-
-- Clear DevOps focus at the top
-- Curated public repos instead of a long random list
-- Visible infrastructure, CI/CD, and observability projects
-- Cleaner repo naming and descriptions across the account
-
 ## Contact
 
 - GitHub: [@ANISHSAJIKUMAR](https://github.com/ANISHSAJIKUMAR)
