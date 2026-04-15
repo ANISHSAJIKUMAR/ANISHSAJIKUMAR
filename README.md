@@ -1,26 +1,32 @@
 # ANISHSAJIKUMAR
 
-DevOps, platform, and full-stack projects focused on automation, observability, and developer tooling.
+DevOps engineer building automation, observability, and platform tooling.
 
-## What I Work On
+![DevOps](https://img.shields.io/badge/DevOps-Automation%20%26%20Platform-111827?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Cluster%20Workloads-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-623ce4?style=for-the-badge&logo=terraform&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-Metrics%20%2F%20Logs%20%2F%20Alerts-0f766e?style=for-the-badge)
+
+## Focus
 
 - Infrastructure and deployment automation
-- Monitoring and observability stacks
-- Docker, Kubernetes, and Terraform workflows
-- React apps and internal tooling
-- Small utilities that remove repetitive manual work
+- Monitoring, logging, and alerting stacks
+- Kubernetes and Terraform workflows
+- CI/CD pipelines and release engineering
+- Internal tools that remove repetitive manual work
 
 ## Featured Work
 
-- [website-cicd-kubernetes-deployment](https://github.com/ANISHSAJIKUMAR/website-cicd-kubernetes-deployment) - web app deployment and CI/CD practice
-- [kubernetes-nginx-deployment](https://github.com/ANISHSAJIKUMAR/kubernetes-nginx-deployment) - Kubernetes deployment example
-- [kubernetes-deployment-mongodb](https://github.com/ANISHSAJIKUMAR/kubernetes-deployment-mongodb) - app plus MongoDB deployment example
-- [deploytoec2cicd](https://github.com/ANISHSAJIKUMAR/deploytoec2cicd) - EC2-focused deployment and CI/CD workflow
-- [docker-project2](https://github.com/ANISHSAJIKUMAR/docker-project2) - Docker-based application packaging
-- [python-sample-application](https://github.com/ANISHSAJIKUMAR/python-sample-application) - Python app template and experimentation
-- [web-scraping](https://github.com/ANISHSAJIKUMAR/web-scraping) - scraping and data collection work
+| Project | What it shows |
+| --- | --- |
+| [devops-observability-lab](https://github.com/ANISHSAJIKUMAR/devops-observability-lab) | Prometheus, Grafana, Loki, Promtail, and node_exporter on macOS |
+| [azure-aks-infrastructure](https://github.com/ANISHSAJIKUMAR/azure-aks-infrastructure) | Azure AKS infrastructure and Terraform |
+| [terraform-cloud](https://github.com/ANISHSAJIKUMAR/terraform-cloud) | Terraform workflows and cloud infrastructure |
+| [deploytoec2cicd](https://github.com/ANISHSAJIKUMAR/deploytoec2cicd) | CI/CD deployment pipeline to EC2 |
+| [website-cicd-kubernetes-deployment](https://github.com/ANISHSAJIKUMAR/website-cicd-kubernetes-deployment) | Web app deployment on Kubernetes |
+| [vagrant](https://github.com/ANISHSAJIKUMAR/vagrant) | Reproducible local VM lab for dev/test setups |
 
-## Current Stack
+## Stack
 
 - Linux and macOS
 - Docker
@@ -31,11 +37,12 @@ DevOps, platform, and full-stack projects focused on automation, observability, 
 - Python
 - Node.js
 
-## Profile Goals
+## What Makes This Profile Stronger
 
-- Keep repos named clearly and consistently
-- Add better READMEs, screenshots, and setup notes
-- Make each public repo easy to understand in under a minute
+- Clear DevOps focus at the top
+- Curated public repos instead of a long random list
+- Visible infrastructure, CI/CD, and observability projects
+- Cleaner repo naming and descriptions across the account
 
 ## Contact
 
