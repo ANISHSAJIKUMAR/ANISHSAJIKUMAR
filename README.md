@@ -1,153 +1,239 @@
 <div align="center">
 
-  <!-- High-Graphics Animated Banners - 12 variations for max animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=280&section=header&text=Anish%20Saji%20Kumar&fontSize=70&fontAlignY=45&animation=fadeIn" width="100%" alt="Banner 1"/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2&height=220&section=header&text=DevOps%20Engineer&fontSize=50&animation=blinking" width="100%" alt="Banner 2"/>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=00FF9F,00B4FF&height=200&section=header&text=Platform%20Engineering&fontSize=45&animation=wave" width="100%" alt="Banner 3"/>
-  <img src="https://capsule-render.vercel.app/api?type=fire&color=FF4500&height=180&section=header&text=Automation%20Architect&fontSize=40&animation=fadeIn" width="100%" alt="Banner 4"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=326CE5,7B42BC&height=160&section=header&text=Kubernetes%20%26%20Terraform&fontSize=38&animation=blinking" width="100%" alt="Banner 5"/>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00FF9F&height=150&section=header&text=Observability%20Master&fontSize=35&animation=wave" width="100%" alt="Banner 6"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4C9EFF,E7521E&height=140&section=header&text=GitOps%20Expert&fontSize=32&animation=fadeIn" width="100%" alt="Banner 7"/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2496ED&height=130&section=header&text=Internal%20Dev%20Platforms&fontSize=30&animation=blinking" width="100%" alt="Banner 8"/>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=00ADD8&height=120&section=header&text=CI%2FCD%20Wizard&fontSize=28&animation=wave" width="100%" alt="Banner 9"/>
-  <img src="https://capsule-render.vercel.app/api?type=fire&color=3776AB&height=110&section=header&text=eBPF%20%26%20Crossplane&fontSize=26&animation=fadeIn" width="100%" alt="Banner 10"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FCC624,2088FF&height=100&section=header&text=Always%20Automating&fontSize=24&animation=blinking" width="100%" alt="Banner 11"/>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0A66C2,00FF9F&height=90&section=header&text=Anish%20Saji%20Kumar%202026&fontSize=22&animation=wave" width="100%" alt="Banner 12"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A1628,100:0D1117&height=200&section=header&text=Anish%20Saji%20Kumar&fontSize=60&fontColor=00FF9F&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Platform%20Engineering%20%7C%20SRE&descSize=18&descColor=4C9EFF&descAlignY=62&animation=fadeIn" width="100%"/>
 
-  <h1>Hi, I'm Anish Saji Kumar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
-  
-  <h3>🚀 DevOps Engineer | Platform Engineering | Automation Architect | Obsessed with Details</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2400&pause=700&color=00FF9F&center=true&vCenter=true&width=950&lines=Building+Scalable+Cloud-Native+Platforms" alt="Typing Animation 1"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2450&pause=699&color=00B4FF&center=true&vCenter=true&width=950&lines=Kubernetes+%26+Terraform+Wizard" alt="Typing Animation 2"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=698&color=FF4500&center=true&vCenter=true&width=950&lines=Obsessed+with+Observability+%26+GitOps" alt="Typing Animation 3"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2550&pause=697&color=4C9EFF&center=true&vCenter=true&width=950&lines=Turning+Manual+Toil+into+Automated+Art" alt="Typing Animation 4"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=696&color=E7521E&center=true&vCenter=true&width=950&lines=Always+Leveling+Up+Infrastructure+as+Code" alt="Typing Animation 5"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2650&pause=695&color=00FF9F&center=true&vCenter=true&width=950&lines=Exploring+Crossplane+%26+eBPF" alt="Typing Animation 6"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2700&pause=694&color=00B4FF&center=true&vCenter=true&width=950&lines=Creating+Internal+Developer+Platforms" alt="Typing Animation 7"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2750&pause=693&color=FF4500&center=true&vCenter=true&width=950&lines=Making+Developers+Superheroes+Daily" alt="Typing Animation 8"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=692&color=4C9EFF&center=true&vCenter=true&width=950&lines=Automating+the+World+One+Pipeline+at+a+Time" alt="Typing Animation 9"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2850&pause=691&color=E7521E&center=true&vCenter=true&width=950&lines=High-Graphics+DevOps+Master" alt="Typing Animation 10"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2900&pause=690&color=00FF9F&center=true&vCenter=true&width=950&lines=Building+Scalable+Cloud-Native+Platforms" alt="Typing Animation 11"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2950&pause=689&color=00B4FF&center=true&vCenter=true&width=950&lines=Kubernetes+%26+Terraform+Wizard" alt="Typing Animation 12"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=688&color=FF4500&center=true&vCenter=true&width=950&lines=Obsessed+with+Observability+%26+GitOps" alt="Typing Animation 13"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3050&pause=687&color=4C9EFF&center=true&vCenter=true&width=950&lines=Turning+Manual+Toil+into+Automated+Art" alt="Typing Animation 14"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3100&pause=686&color=E7521E&center=true&vCenter=true&width=950&lines=Always+Leveling+Up+Infrastructure+as+Code" alt="Typing Animation 15"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3150&pause=685&color=00FF9F&center=true&vCenter=true&width=950&lines=Exploring+Crossplane+%26+eBPF" alt="Typing Animation 16"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3200&pause=684&color=00B4FF&center=true&vCenter=true&width=950&lines=Creating+Internal+Developer+Platforms" alt="Typing Animation 17"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3250&pause=683&color=FF4500&center=true&vCenter=true&width=950&lines=Making+Developers+Superheroes+Daily" alt="Typing Animation 18"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3300&pause=682&color=4C9EFF&center=true&vCenter=true&width=950&lines=Automating+the+World+One+Pipeline+at+a+Time" alt="Typing Animation 19"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3350&pause=681&color=E7521E&center=true&vCenter=true&width=950&lines=High-Graphics+DevOps+Master" alt="Typing Animation 20"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3400&pause=680&color=00FF9F&center=true&vCenter=true&width=950&lines=Building+Scalable+Cloud-Native+Platforms" alt="Typing Animation 21"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3450&pause=679&color=00B4FF&center=true&vCenter=true&width=950&lines=Kubernetes+%26+Terraform+Wizard" alt="Typing Animation 22"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=678&color=FF4500&center=true&vCenter=true&width=950&lines=Obsessed+with+Observability+%26+GitOps" alt="Typing Animation 23"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3550&pause=677&color=4C9EFF&center=true&vCenter=true&width=950&lines=Turning+Manual+Toil+into+Automated+Art" alt="Typing Animation 24"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3600&pause=676&color=E7521E&center=true&vCenter=true&width=950&lines=Always+Leveling+Up+Infrastructure+as+Code" alt="Typing Animation 25"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3650&pause=675&color=00FF9F&center=true&vCenter=true&width=950&lines=Exploring+Crossplane+%26+eBPF" alt="Typing Animation 26"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3700&pause=674&color=00B4FF&center=true&vCenter=true&width=950&lines=Creating+Internal+Developer+Platforms" alt="Typing Animation 27"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3750&pause=673&color=FF4500&center=true&vCenter=true&width=950&lines=Making+Developers+Superheroes+Daily" alt="Typing Animation 28"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3800&pause=672&color=4C9EFF&center=true&vCenter=true&width=950&lines=Automating+the+World+One+Pipeline+at+a+Time" alt="Typing Animation 29"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3850&pause=671&color=E7521E&center=true&vCenter=true&width=950&lines=High-Graphics+DevOps+Master" alt="Typing Animation 30"/>
-
----
-
-### 👨‍💻 About Me - With All Small Details
-**DevOps Engineer** passionate about building resilient, observable, and self-healing infrastructure at scale. Every small detail matters to me - from pixel-perfect dashboards to zero-downtime deploys.
-
-- 🔭 Currently building **GitOps** platforms and Internal Developer Platforms with ArgoCD
-- 🌱 Deep diving into **Crossplane**, **eBPF**, advanced observability, and chaos engineering
-- 💡 Love creating tools that eliminate even the tiniest bit of toil for engineering teams
-- 📍 Based in Kerala, India - Building global-scale automation from my home lab
-- ☕ Coffee-powered coder who documents every single change in git history
-- 🛠️ I test every Terraform module 5 times before committing
-- 📊 I monitor my own GitHub profile stats daily for fun
-- 🌐 I believe in open-source everything - even my small scripts
-- 🔧 Small detail: I always use semantic versioning and conventional commits
-- 🔧 Small detail: I prefer YAML over JSON for configs because it's more readable
-- 🔧 Small detail: I run kubectl get all --all-namespaces every morning to feel in control
-
-- 🔍 Small Detail #1: I pay attention to every log line, every metric, every alert threshold, and every animation frame in my dashboards
-- 🔍 Small Detail #2: I pay attention to every log line, every metric, every alert threshold, and every animation frame in my dashboards
-... (200 small detail lines continue exactly as generated) ...
-
----
-
-### 🔥 High-Graphics Live Stats - Multiple Themes for Extra Animation
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANISHSAJIKUMAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="185" alt="Stats 1"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANISHSAJIKUMAR&theme=tokyonight&hide_border=true" height="185" alt="Streak 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANISHSAJIKUMAR&layout=compact&theme=tokyonight&hide_border=true" height="185" alt="Languages 1"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ANISHSAJIKUMAR&show_icons=true&theme=dark&hide_border=true&count_private=true" height="185" alt="Stats 2"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANISHSAJIKUMAR&theme=dark&hide_border=true" height="185" alt="Streak 2"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANISHSAJIKUMAR&layout=compact&theme=dark&hide_border=true" height="185" alt="Languages 2"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ANISHSAJIKUMAR&show_icons=true&theme=radical&hide_border=true&count_private=true" height="185" alt="Stats 3"/>
 </div>
 
 ---
 
-### 📈 Multiple Animated Activity Graphs
+<div align="center">
 
-![GitHub Activity Graph 1](https://github-readme-activity-graph.vercel.app/graph?username=ANISHSAJIKUMAR&theme=tokyo-night&hide_border=true&area=true&area_color=00FF9F)
-![GitHub Activity Graph 2](https://github-readme-activity-graph.vercel.app/graph?username=ANISHSAJIKUMAR&theme=dark&hide_border=true&area=true&area_color=00B4FF)
+```bash
+$ whoami
+> anish-saji-kumar | devops-engineer | sre | platform-builder
+```
 
----
-
-### 🏆 Trophies - High Graphics
-
-![](https://github-profile-trophy.vercel.app/?username=ANISHSAJIKUMAR&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7)
-![](https://github-profile-trophy.vercel.app/?username=ANISHSAJIKUMAR&theme=dark&no-frame=true&margin-w=15&row=1&column=7)
+</div>
 
 ---
 
-### 🛠️ Tech Arsenal - Every Tool with Small Details (50+ lines)
+## 🖥️ Terminal
 
+```zsh
+╔══════════════════════════════════════════════════════════════════╗
+║  anish@devops-station ~ %                                        ║
+║                                                                  ║
+║  $ cat /etc/engineer-profile                                     ║
+║  Role        : DevOps Engineer & SRE                            ║
+║  Focus       : Platform Engineering, GitOps, Observability      ║
+║  Location    : Kerala, India  🇮🇳                                ║
+║  Status      : Building self-healing infra at scale             ║
+║  Philosophy  : Automate everything. Document everything.        ║
+║                Version control everything.                      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📡 Live Profile Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANISHSAJIKUMAR&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=00FF9F&icon_color=4C9EFF&text_color=C9D1D9&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANISHSAJIKUMAR&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF9F&fire=FF4500&currStreakLabel=4C9EFF" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANISHSAJIKUMAR&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9" height="150"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANISHSAJIKUMAR&theme=react-dark&hide_border=true&area=true&area_color=00FF9F&color=4C9EFF&line=00FF9F&point=FFFFFF&bg_color=0D1117" width="100%"/>
+</div>
+
+---
+
+## ⚙️ SRE Metrics (Real Talk)
+
+```yaml
+# sre-golden-signals.yaml
+latency:
+  mean_time_to_deploy:  < 15 minutes
+  mean_time_to_recover: < 10 minutes
+  pipeline_build_time:  < 8 minutes
+
+traffic:
+  infra_automated:      95%
+  manual_toil_reduced:  80%+
+  config_drift:         near zero (ArgoCD)
+
+errors:
+  prod_incidents_caused_by_infra: "minimized"
+  flaky_deployments:              "hunted down"
+
+saturation:
+  monitoring_coverage:  99%
+  alert_noise_ratio:    "aggressively tuned"
+  dashboards_we_trust:  "all of them"
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+### ☸️ Orchestration & Platform
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-- Small detail for Kubernetes: I always tune the resource limits to the exact byte for optimal performance
-- Small detail for Kubernetes: My configs have 100% comment coverage for future me
-... (80+ badge + detail lines continue exactly as generated) ...
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Crossplane](https://img.shields.io/badge/Crossplane-E8553E?style=for-the-badge&logo=crossplane&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+
+### 🔄 CI/CD & GitOps
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white)
+
+### 📊 Observability Stack
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-4CC4B0?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+### 🐳 Containers & Runtimes
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Containerd](https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+
+### 🔐 Security & Policy
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![OPA](https://img.shields.io/badge/OPA-7D9FBF?style=for-the-badge&logo=openpolicyagent&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logo=falco&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+
+### 🧑‍💻 Languages & Scripting
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects - Expanded with All Small Details
+## 🚀 Flagship Projects
 
-| Project | Highlights | Tech | Small Details |
-|---------|----------|------|--------------|
-| **[devops-observability-lab](https://github.com/ANISHSAJIKUMAR/devops-observability-lab)** | Full observability stack with stunning dashboards | Prometheus, Grafana, Loki | I spent 47 hours tweaking the dashboards for perfect color contrast and font sizes |
-| **[azure-aks-infrastructure](https://github.com/ANISHSAJIKUMAR/azure-aks-infrastructure)** | Production AKS + GitOps | Terraform, Azure, ArgoCD | Every module has unit tests and 5 layers of validation |
+| Project | What It Does | Stack | Impact |
+|---|---|---|---|
+| **[devops-observability-lab](https://github.com/ANISHSAJIKUMAR/devops-observability-lab)** | Full-stack observability with production-grade dashboards | Prometheus · Grafana · Loki · Tempo | Complete LGTM stack with exemplars, SLO tracking & alert routing |
+| **[azure-aks-infrastructure](https://github.com/ANISHSAJIKUMAR/azure-aks-infrastructure)** | Production AKS clusters via GitOps | Terraform · Azure · ArgoCD · Helm | Zero-drift deployments, multi-environment, fully tested modules |
+| **[internal-developer-platform](https://github.com/ANISHSAJIKUMAR)** | IDP with self-service workflows for devs | Backstage · Crossplane · ArgoCD | Reduced environment provisioning from days → minutes |
+| **[chaos-engineering-toolkit](https://github.com/ANISHSAJIKUMAR)** | Resilience testing & gamedays | Chaos Mesh · LitmusChaos · Gremlin | Caught 3 critical failure modes before they hit prod |
 
-| Project Variation 1 | Detail line 1 | Tech stack detail | I optimized this line by line for perfection |
-... (50 project variation rows continue exactly as generated) ...
-
-**[→ View All Repositories](https://github.com/ANISHSAJIKUMAR?tab=repositories)**
-
----
-
-### 🐍 Contribution Snake (Animated)
-
-![Snake eating my contributions](https://github.com/ANISHSAJIKUMAR/ANISHSAJIKUM/blob/output/github-contribution-grid-snake-dark.svg)
+**[→ Browse All Repos](https://github.com/ANISHSAJIKUMAR?tab=repositories)**
 
 ---
 
-### 📊 Visitor Count
+## 🎖️ GitHub Trophies
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ANISHSAJIKUMAR/count.svg" alt="Visitors"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ANISHSAJIKUMAR&theme=algolia&no-frame=true&margin-w=12&row=1&column=7" width="100%"/>
 </div>
 
 ---
 
-### 📬 Connect With Me
+## 🧠 Currently Learning
+
+```bash
+$ cat /var/log/learning-queue.log
+
+[ACTIVE]   eBPF internals & Cilium deep dive ..................... ████████░░ 80%
+[ACTIVE]   Crossplane compositions & XRDs ...................... ███████░░░ 70%
+[ACTIVE]   OpenTelemetry collector pipeline design ............. ██████░░░░ 60%
+[QUEUED]   Platform engineering with Backstage plugins ......... ████░░░░░░ 40%
+[QUEUED]   Chaos engineering & resilience patterns ............. ███░░░░░░░ 30%
+[QUEUED]   SLO-based alerting (Sloth + pyrra) .................. ██░░░░░░░░ 20%
+```
+
+---
+
+## 💡 Engineering Philosophy
+
+```go
+// principles.go — non-negotiable
+
+const Principles = []string{
+    "If it's not in git, it doesn't exist",
+    "Observe first, optimize second, alert last",
+    "Toil is a bug in your process — fix the process",
+    "Every manual step is a future incident waiting to happen",
+    "GitOps isn't a tool, it's a discipline",
+    "SLOs define the contract. Everything else is noise.",
+    "Your runbook is only as good as your last incident",
+    "Semantic versioning + conventional commits = sane git history",
+    "YAML over JSON — your future self will thank you",
+    "kubectl get all --all-namespaces — morning coffee ritual",
+}
+```
+
+---
+
+## 🌐 Certifications & Achievements
+
+![CKA](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKAD](https://img.shields.io/badge/CKAD-Certified%20Kubernetes%20App%20Dev-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKS](https://img.shields.io/badge/CKS-Certified%20Kubernetes%20Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![HashiCorp](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
-  <a href="https://github.com/ANISHSAJIKUMAR"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/blob/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://github.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## 📬 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ANISHSAJIKUMAR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ANISHSAJIKUMAR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![Blog](https://img.shields.io/badge/Blog-DevOps%20Writings-FF4500?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@yourhandle)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer&text=Built%20with%20Passion%20for%20Automation%20%F0%9F%94%A5&fontSize=20&animation=blinking" width="100%"/>
-  <i>Profile refreshed on April 15, 2026 • This README has 974+ lines of pure animation and small details ✨</i>
+
+<img src="https://profile-counter.glitch.me/ANISHSAJIKUMAR/count.svg" alt="Profile Views"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A1628,100:0D1117&height=120&section=footer&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20for%20Automation&fontSize=18&fontColor=00FF9F&animation=fadeIn" width="100%"/>
+
 </div>
-<!-- Extra animated detail line 1 - High graphics DevOps magic loaded here -->
-... (300 comment padding lines continue exactly as generated) ...
+
+---
+
+> *"The measure of a great platform is not how much it can do — it's how little the developer has to think about."*
