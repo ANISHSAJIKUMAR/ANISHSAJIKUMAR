@@ -67,6 +67,14 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
     <th align="left">What it shows</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/kubernetes-sigs/kind/pull/4139">kind PR #4139</a></td>
+    <td>code: add a `kind env` command for cluster environment discovery</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/prometheus/node_exporter/pull/3628">node_exporter PR #3628</a></td>
+    <td>code: make the end-to-end healthcheck helper TLS-safe</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/ANISHSAJIKUMAR/vagrant/pull/3">vagrant PR #3</a></td>
     <td>docs: add project layout section</td>
   </tr>
