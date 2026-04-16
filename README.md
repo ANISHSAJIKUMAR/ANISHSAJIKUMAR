@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2618,100:0d1a2e&height=200&section=header&text=Anish%20Saji%20Kumar&fontSize=52&fontColor=00FF9F&fontAlignY=45&desc=DevOps%20%E2%80%A2%20SRE%20%E2%80%A2%20Platform%20Engineer&descSize=16&descColor=4C9EFF&descAlignY=68&animation=fadeIn" width="100%"/>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/name-banner.svg" width="100%" alt="Animated name banner"/>
 
 <br/>
