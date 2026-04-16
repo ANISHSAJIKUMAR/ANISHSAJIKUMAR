@@ -24,11 +24,9 @@
 
 ## Focus
 
-- Infrastructure and deployment automation
-- Monitoring, logging, and alerting stacks
-- Kubernetes and Terraform workflows
-- CI/CD pipelines and release engineering
-- Internal tools that remove repetitive manual work
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/focus-panel.svg" width="100%" alt="Animated focus panel"/>
+</div>
 
 ## Featured Work
 
