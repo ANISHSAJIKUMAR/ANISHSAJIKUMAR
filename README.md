@@ -1,5 +1,3 @@
-<div align="center" style="width: 100%; background: #0D1117; border: 2px solid #00FF9F; box-shadow: 0 0 0 1px rgba(0, 255, 159, 0.85), 0 0 18px rgba(0, 255, 159, 0.9), 0 0 42px rgba(76, 158, 255, 0.55), inset 0 0 18px rgba(0, 255, 159, 0.12); padding: 16px; overflow: hidden;">
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/name-banner.svg" width="100%" alt="Animated name banner"/>
@@ -175,8 +173,4 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
   </tr>
 </table>
 
-</div>
-
 <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/subtle-wave.svg" width="100%" alt="Subtle animated wave"/>
-
-</div>
