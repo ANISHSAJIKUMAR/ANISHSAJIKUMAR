@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Anish Saji Kumar">
+  <defs>
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff9f"/>
+      <stop offset="45%" stop-color="#4c9eff"/>
+      <stop offset="100%" stop-color="#00ff9f"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;0%;100%" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)" />
+      <stop offset="45%" stop-color="rgba(255,255,255,0.08)" />
+      <stop offset="50%" stop-color="rgba(255,255,255,0.7)" />
+      <stop offset="55%" stop-color="rgba(255,255,255,0.08)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0)" />
+      <animate attributeName="x1" values="-120%;120%" dur="5.5s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="-20%;220%" dur="5.5s" repeatCount="indefinite" />
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" fill="transparent"/>
+
+  <g transform="translate(600 92)" text-anchor="middle">
+    <text x="0" y="0" font-family="JetBrains Mono, Consolas, monospace" font-size="66" font-weight="700" fill="#00ff9f" opacity="0.24" filter="url(#glow)">
+      <tspan>
+        A
+        <animate attributeName="opacity" values="0.05;0.28;0.14;0.28;0.2" dur="2.4s" repeatCount="indefinite" />
+      </tspan>
+      <tspan dx="0">n</tspan>
+      <tspan dx="0">i</tspan>
+      <tspan dx="0">s</tspan>
+      <tspan dx="0">h</tspan>
+      <tspan dx="18">S</tspan>
+      <tspan dx="0">a</tspan>
+      <tspan dx="0">j</tspan>
+      <tspan dx="0">i</tspan>
+      <tspan dx="18">K</tspan>
+      <tspan dx="0">u</tspan>
+      <tspan dx="0">m</tspan>
+      <tspan dx="0">a</tspan>
+      <tspan dx="0">r</tspan>
+    </text>
+
+    <text x="0" y="0" font-family="JetBrains Mono, Consolas, monospace" font-size="66" font-weight="700" fill="url(#nameGradient)" filter="url(#glow)">
+      <tspan>ANISH SAJI KUMAR</tspan>
+      <animate attributeName="opacity" values="0.78;1;0.88;1;0.82" dur="3.6s" repeatCount="indefinite" />
+    </text>
+
+    <text x="0" y="0" font-family="JetBrains Mono, Consolas, monospace" font-size="66" font-weight="700" fill="url(#shine)" opacity="0.45">
+      <tspan>ANISH SAJI KUMAR</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(600 154)" text-anchor="middle">
+    <text font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="500" fill="#4c9eff" opacity="0">
+      <tspan>DevOps Engineer · SRE · Platform Engineer</tspan>
+      <animate attributeName="opacity" values="0;1;1;0.96;1" dur="4s" begin="0.3s" repeatCount="indefinite" />
+    </text>
+  </g>
+</svg>

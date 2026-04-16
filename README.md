@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/name-banner.svg" width="100%" alt="Animated name banner"/>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=600&color=00FF9F&center=true&vCenter=true&width=600&lines=kubectl+apply+-f+production-infra.yaml;terraform+apply+%22zero-toil%22;argocd+sync+--prune+--force;grafana+dashboard+%22actually+makes+sense%22" alt="Typing SVG"/>
 
 <br/>
