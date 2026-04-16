@@ -39,19 +39,21 @@
 | [website-cicd-kubernetes-deployment](https://github.com/ANISHSAJIKUMAR/website-cicd-kubernetes-deployment) | Web app deployment on Kubernetes |
 | [vagrant](https://github.com/ANISHSAJIKUMAR/vagrant) | Reproducible local VM lab for dev/test setups |
 
-## Recent Public Contributions
+## Open Source Focus
 
-- `vagrant` - added `CONTRIBUTING.md`
-- `vagrant` - added workflow guidance to the README
-- `deploytoec2cicd` - added `CODEOWNERS`
-- `deploytoec2cicd` - clarified the deployment pipeline README
-- `azure-aks-infrastructure` - added a pull request template
-- `azure-aks-infrastructure` - added a Terraform validation checklist
-- `terraform-cloud` - added `CODEOWNERS`
-- `terraform-cloud` - added a bug report issue template
-- `website-cicd-kubernetes-deployment` - added `CODEOWNERS`
-- `website-cicd-kubernetes-deployment` - clarified the website delivery flow
-- `devops-observability-lab` - added a contributing guide
+I’m actively looking to contribute to these DevOps and SRE projects:
+
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - local Kubernetes clusters and validation
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes documentation
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - core Kubernetes codebase
+- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation
+- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - host metrics exporter
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - monitoring engine
+- [grafana/loki](https://github.com/grafana/loki) - log aggregation and observability
+- [grafana/mimir](https://github.com/grafana/mimir) - long-term metrics storage
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - GitOps delivery
+- [cilium/cilium](https://github.com/cilium/cilium) - Kubernetes networking and security
+- [helm/helm](https://github.com/helm/helm) - Kubernetes packaging
 
 ## Stack
 
