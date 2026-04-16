@@ -18,6 +18,10 @@
 
 ## `whoami`
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=700&color=4C9EFF&center=true&vCenter=true&width=580&lines=GitOps+with+ArgoCD;Observability+with+Prometheus+%26+Grafana;Terraform-based+infrastructure;CI%2FCD+and+deployment+automation" alt="whoami typing"/>
+</div>
+
 ```yaml
 name: Anish Saji Kumar
 role: DevOps Engineer · SRE · Platform Engineer
