@@ -145,7 +145,19 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ANISHSAJIKUMAR&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00FF9F&icon_color=4C9EFF&text_color=C9D1D9&bg_color=0D1117" height="180"/>
+<table width="100%" cellpadding="10" cellspacing="0" border="1" bordercolor="#00FF9F" style="border-collapse: collapse; background: #0D1117; box-shadow: 0 0 18px rgba(0, 255, 159, 0.22), 0 0 28px rgba(76, 158, 255, 0.14);">
+  <tr>
+    <th colspan="2" align="center">Live GitHub Stats</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ANISHSAJIKUMAR&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00FF9F&icon_color=4C9EFF&text_color=C9D1D9&bg_color=0D1117" height="180" alt="GitHub stats"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANISHSAJIKUMAR&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9F&fire=FF4500&currStreakLabel=4C9EFF" height="180" alt="GitHub streak stats"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
