@@ -57,6 +57,13 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
 | [cilium/cilium](https://github.com/cilium/cilium) | Kubernetes networking and security |
 | [helm/helm](https://github.com/helm/helm) | Kubernetes packaging |
 
+## Recent Public Activity
+
+- [vagrant PR #3](https://github.com/ANISHSAJIKUMAR/vagrant/pull/3) - docs: add project layout section
+- [azure-aks-infrastructure PR #2](https://github.com/ANISHSAJIKUMAR/azure-aks-infrastructure/pull/2) - docs: add usage notes
+- [deploytoec2cicd PR #3](https://github.com/ANISHSAJIKUMAR/deploytoec2cicd/pull/3) - docs: add reviewer notes
+- [vagrant issue #4](https://github.com/ANISHSAJIKUMAR/vagrant/issues/4) - opened and closed quickly for a Quickdraw-style public activity
+
 ## Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
