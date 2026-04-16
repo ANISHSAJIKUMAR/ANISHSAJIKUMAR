@@ -77,7 +77,7 @@ currently:
 ## Snake
 
 <div align="center">
-  <img src="https://github.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+  <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 </div>
 
 ## Contact
