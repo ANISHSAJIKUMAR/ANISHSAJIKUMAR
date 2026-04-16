@@ -11,7 +11,7 @@
 <a href="https://github.com/ANISHSAJIKUMAR">
   <img src="https://img.shields.io/badge/GitHub-ANISHSAJIKUMAR-00FF9F?style=flat-square&logo=github&logoColor=00FF9F&labelColor=0D1117&color=0D1117"/>
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/anish-saji-kumar/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4C9EFF?style=flat-square&logo=linkedin&logoColor=4C9EFF&labelColor=0D1117&color=0D1117"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=ANISHSAJIKUMAR&label=PROFILE+VIEWS&color=00FF9F&style=flat-square&labelColor=0D1117"/>
