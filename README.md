@@ -52,12 +52,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Now
-
-- Building observability and platform automation projects
-- Tightening repo naming, READMEs, and descriptions
-- Keeping public work focused and easy to scan
-
 ## Stats
 
 <div align="center">
