@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-label="whoami terminal panel">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540" role="img" aria-label="whoami terminal panel">
   <defs>
     <linearGradient id="panelBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b1018"/>
@@ -20,12 +20,12 @@
       </feMerge>
     </filter>
     <clipPath id="panelClip">
-      <rect x="40" y="40" width="1120" height="440" rx="20" ry="20"/>
+      <rect x="40" y="40" width="1120" height="460" rx="20" ry="20"/>
     </clipPath>
   </defs>
 
-  <rect width="1200" height="520" fill="transparent"/>
-  <rect x="40" y="40" width="1120" height="440" rx="20" ry="20" fill="url(#panelBg)" stroke="url(#panelGlow)" stroke-width="2" filter="url(#softGlow)"/>
+  <rect width="1200" height="540" fill="transparent"/>
+  <rect x="40" y="40" width="1120" height="460" rx="20" ry="20" fill="url(#panelBg)" stroke="url(#panelGlow)" stroke-width="2" filter="url(#softGlow)"/>
   <rect x="40" y="40" width="1120" height="44" rx="20" ry="20" fill="#0f1622" opacity="0.95"/>
   <rect x="40" y="62" width="1120" height="1" fill="#1f2a3a" opacity="0.8"/>
 
@@ -42,16 +42,16 @@
     <text x="72" y="276" font-size="18">LOCATION="Kerala, India (UTC+5:30)"</text>
     <text x="72" y="308" font-size="18">MISSION="Build reliable systems, automate toil, and make delivery boring."</text>
 
-    <text x="72" y="354" font-size="16" fill="#7ea2d6">$ printf "currently"</text>
-    <text x="72" y="390" font-size="18" fill="#cfe6ff">- GitOps with ArgoCD</text>
-    <text x="360" y="390" font-size="18" fill="#cfe6ff">- Observability with Prometheus, Grafana, Loki</text>
-    <text x="72" y="424" font-size="18" fill="#cfe6ff">- Terraform-based infrastructure</text>
-    <text x="360" y="424" font-size="18" fill="#cfe6ff">- CI/CD and deployment automation</text>
+    <text x="72" y="346" font-size="16" fill="#7ea2d6">$ printf "currently"</text>
+    <text x="72" y="380" font-size="18" fill="#cfe6ff">- GitOps with ArgoCD</text>
+    <text x="360" y="380" font-size="18" fill="#cfe6ff">- Observability with Prometheus, Grafana, Loki</text>
+    <text x="72" y="412" font-size="18" fill="#cfe6ff">- Terraform-based infrastructure</text>
+    <text x="360" y="412" font-size="18" fill="#cfe6ff">- CI/CD and deployment automation</text>
 
-    <rect x="874" y="300" width="10" height="22" rx="2" fill="#00ff9f" opacity="0.95">
+    <rect x="874" y="294" width="10" height="22" rx="2" fill="#00ff9f" opacity="0.95">
       <animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite" />
     </rect>
 
-    <text x="72" y="470" font-size="14" fill="#46607f">status: building reliable systems, not busywork</text>
+    <text x="72" y="492" font-size="14" fill="#46607f">status: building reliable systems, not busywork</text>
   </g>
 </svg>
