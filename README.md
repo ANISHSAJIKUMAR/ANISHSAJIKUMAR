@@ -63,6 +63,17 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
 - [azure-aks-infrastructure PR #2](https://github.com/ANISHSAJIKUMAR/azure-aks-infrastructure/pull/2) - docs: add usage notes
 - [deploytoec2cicd PR #3](https://github.com/ANISHSAJIKUMAR/deploytoec2cicd/pull/3) - docs: add reviewer notes
 - [vagrant issue #4](https://github.com/ANISHSAJIKUMAR/vagrant/issues/4) - opened and closed quickly for a Quickdraw-style public activity
+- [kind PR #4135](https://github.com/kubernetes-sigs/kind/pull/4135) - docs: clarify rootless quick-start note
+- [kind PR #4136](https://github.com/kubernetes-sigs/kind/pull/4136) - docs: clarify WSL2 installation heading
+- [kind PR #4137](https://github.com/kubernetes-sigs/kind/pull/4137) - docs: clarify auditing configuration wording
+- [prometheus/docs PR #2971](https://github.com/prometheus/docs/pull/2971) - docs: clarify overview setup wording
+- [prometheus/docs PR #2972](https://github.com/prometheus/docs/pull/2972) - docs: clarify Docker Swarm setup wording
+- [prometheus/docs PR #2973](https://github.com/prometheus/docs/pull/2973) - docs: clarify basic auth wording
+- [node_exporter PR #3626](https://github.com/prometheus/node_exporter/pull/3626) - docs: clarify upgrade guidance wording
+- [node_exporter PR #3627](https://github.com/prometheus/node_exporter/pull/3627) - docs: clarify cloud native wording
+- [loki PR #21581](https://github.com/grafana/loki/pull/21581) - docs: clarify recording rules wording
+- [loki PR #21582](https://github.com/grafana/loki/pull/21582) - docs: clarify Loki UI wording
+- [loki PR #21583](https://github.com/grafana/loki/pull/21583) - docs: clarify caching section wording
 
 ## Stack
 
