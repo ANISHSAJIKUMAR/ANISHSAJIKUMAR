@@ -399,7 +399,7 @@ func DailyRitual() []string {
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANISHSAJIKUMAR-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ANISHSAJIKUMAR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish_Saji_Kumar-4C9EFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Gmail-Reach_Me-FF4500?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:your.email@domain.com)
+[![Email](https://img.shields.io/badge/Gmail-Reach_Me-FF4500?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)]
 [![Blog](https://img.shields.io/badge/Hashnode-Tech_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0D1117)](https://hashnode.com/@yourhandle)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117)](https://twitter.com/yourhandle)
 
