@@ -159,8 +159,23 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
 
 ## Contact
 
-- GitHub: [@ANISHSAJIKUMAR](https://github.com/ANISHSAJIKUMAR)
-- LinkedIn: [Anish Saji Kumar](https://www.linkedin.com/in/anish-saji-kumar/)
+<div align="center">
+
+<table width="100%" cellpadding="8" cellspacing="0" border="1" bordercolor="#4C9EFF" style="border-collapse: collapse; background: #0D1117; box-shadow: 0 0 16px rgba(76, 158, 255, 0.28), 0 0 24px rgba(0, 255, 159, 0.18);">
+  <tr>
+    <th colspan="2" align="center">Contact</th>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td><a href="https://github.com/ANISHSAJIKUMAR">@ANISHSAJIKUMAR</a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/anish-saji-kumar/">Anish Saji Kumar</a></td>
+  </tr>
+</table>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/subtle-wave.svg" width="100%" alt="Subtle animated wave"/>
 
