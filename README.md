@@ -39,6 +39,20 @@
 | [website-cicd-kubernetes-deployment](https://github.com/ANISHSAJIKUMAR/website-cicd-kubernetes-deployment) | Web app deployment on Kubernetes |
 | [vagrant](https://github.com/ANISHSAJIKUMAR/vagrant) | Reproducible local VM lab for dev/test setups |
 
+## Recent Public Contributions
+
+- `vagrant` - added `CONTRIBUTING.md`
+- `vagrant` - added workflow guidance to the README
+- `deploytoec2cicd` - added `CODEOWNERS`
+- `deploytoec2cicd` - clarified the deployment pipeline README
+- `azure-aks-infrastructure` - added a pull request template
+- `azure-aks-infrastructure` - added a Terraform validation checklist
+- `terraform-cloud` - added `CODEOWNERS`
+- `terraform-cloud` - added a bug report issue template
+- `website-cicd-kubernetes-deployment` - added `CODEOWNERS`
+- `website-cicd-kubernetes-deployment` - clarified the website delivery flow
+- `devops-observability-lab` - added a contributing guide
+
 ## Stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
