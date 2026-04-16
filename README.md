@@ -1,6 +1,4 @@
-<table align="center" width="100%" cellpadding="16" cellspacing="0" border="2" bordercolor="#00FF9F" bgcolor="#0D1117" style="box-shadow: 0 0 18px rgba(0, 255, 159, 0.45), 0 0 36px rgba(76, 158, 255, 0.2); border-radius: 0; overflow: hidden; border-collapse: collapse;">
-<tr>
-<td>
+<div align="center" style="border: 2px solid #00FF9F; background: #0D1117; box-shadow: 0 0 18px rgba(0, 255, 159, 0.45), 0 0 36px rgba(76, 158, 255, 0.2); padding: 16px; margin: 0; display: block;">
 
 <div align="center">
 
@@ -111,6 +109,4 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
 
 <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/subtle-wave.svg" width="100%" alt="Subtle animated wave"/>
 
-</td>
-</tr>
-</table>
+</div>
