@@ -16,6 +16,8 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/subtle-wave.svg" width="100%" alt="Subtle animated wave"/>
+
 ## `whoami`
 
 ```yaml
@@ -84,5 +86,7 @@ currently:
 
 - GitHub: [@ANISHSAJIKUMAR](https://github.com/ANISHSAJIKUMAR)
 - LinkedIn: [Anish Saji Kumar](https://www.linkedin.com/in/anish-saji-kumar/)
+
+<img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/subtle-wave.svg" width="100%" alt="Subtle animated wave"/>
 
 _Profile refreshed on 2026-04-16._
