@@ -1,3 +1,7 @@
+<table align="center" width="100%" cellpadding="16" cellspacing="0" border="2" bordercolor="#00FF9F" bgcolor="#0D1117" style="box-shadow: 0 0 18px rgba(0, 255, 159, 0.45), 0 0 36px rgba(76, 158, 255, 0.2); border-radius: 18px; overflow: hidden;">
+<tr>
+<td>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/name-banner.svg" width="100%" alt="Animated name banner"/>
@@ -106,3 +110,7 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
 - LinkedIn: [Anish Saji Kumar](https://www.linkedin.com/in/anish-saji-kumar/)
 
 <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/subtle-wave.svg" width="100%" alt="Subtle animated wave"/>
+
+</td>
+</tr>
+</table>
