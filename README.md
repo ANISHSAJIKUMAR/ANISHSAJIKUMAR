@@ -30,30 +30,32 @@
 
 ## Featured Work
 
-| Project | What it shows |
+| Project | Focus |
 | --- | --- |
-| [devops-observability-lab](https://github.com/ANISHSAJIKUMAR/devops-observability-lab) | Prometheus, Grafana, Loki, Promtail, and node_exporter on macOS |
-| [azure-aks-infrastructure](https://github.com/ANISHSAJIKUMAR/azure-aks-infrastructure) | Azure AKS infrastructure and Terraform |
-| [terraform-cloud](https://github.com/ANISHSAJIKUMAR/terraform-cloud) | Terraform workflows and cloud infrastructure |
-| [deploytoec2cicd](https://github.com/ANISHSAJIKUMAR/deploytoec2cicd) | CI/CD deployment pipeline to EC2 |
-| [website-cicd-kubernetes-deployment](https://github.com/ANISHSAJIKUMAR/website-cicd-kubernetes-deployment) | Web app deployment on Kubernetes |
-| [vagrant](https://github.com/ANISHSAJIKUMAR/vagrant) | Reproducible local VM lab for dev/test setups |
+| [devops-observability-lab](https://github.com/ANISHSAJIKUMAR/devops-observability-lab) | macOS observability stack with Prometheus, Grafana, Loki, Promtail, and node_exporter |
+| [azure-aks-infrastructure](https://github.com/ANISHSAJIKUMAR/azure-aks-infrastructure) | Azure AKS infrastructure and Terraform workflows |
+| [terraform-cloud](https://github.com/ANISHSAJIKUMAR/terraform-cloud) | Cloud infrastructure and Terraform practice |
+| [deploytoec2cicd](https://github.com/ANISHSAJIKUMAR/deploytoec2cicd) | EC2 deployment automation with CI/CD |
+| [website-cicd-kubernetes-deployment](https://github.com/ANISHSAJIKUMAR/website-cicd-kubernetes-deployment) | Containerized website deployment on Kubernetes |
+| [vagrant](https://github.com/ANISHSAJIKUMAR/vagrant) | Reproducible local VM environment for dev and test labs |
 
 ## Open Source Focus
 
-I’m actively looking to contribute to these DevOps and SRE projects:
+I’m actively targeting DevOps and SRE projects that fit my stack:
 
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - local Kubernetes clusters and validation
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes documentation
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - core Kubernetes codebase
-- [prometheus/docs](https://github.com/prometheus/docs) - Prometheus documentation
-- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - host metrics exporter
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - monitoring engine
-- [grafana/loki](https://github.com/grafana/loki) - log aggregation and observability
-- [grafana/mimir](https://github.com/grafana/mimir) - long-term metrics storage
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - GitOps delivery
-- [cilium/cilium](https://github.com/cilium/cilium) - Kubernetes networking and security
-- [helm/helm](https://github.com/helm/helm) - Kubernetes packaging
+| Repo | Why it fits |
+| --- | --- |
+| [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | Local Kubernetes clusters and validation |
+| [kubernetes/website](https://github.com/kubernetes/website) | Kubernetes documentation |
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | Core Kubernetes codebase |
+| [prometheus/docs](https://github.com/prometheus/docs) | Prometheus documentation |
+| [prometheus/node_exporter](https://github.com/prometheus/node_exporter) | Host metrics exporter |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | Monitoring engine |
+| [grafana/loki](https://github.com/grafana/loki) | Log aggregation and observability |
+| [grafana/mimir](https://github.com/grafana/mimir) | Long-term metrics storage |
+| [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | GitOps delivery |
+| [cilium/cilium](https://github.com/cilium/cilium) | Kubernetes networking and security |
+| [helm/helm](https://github.com/helm/helm) | Kubernetes packaging |
 
 ## Stack
 
