@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="blinking cursor">
+  <rect x="10" y="4" width="4" height="16" rx="1" fill="#00ff9f">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite" />
+  </rect>
+</svg>

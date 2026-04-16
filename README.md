@@ -40,6 +40,10 @@ $ printf "currently\n"
 $ _
 ```
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ANISHSAJIKUMAR/ANISHSAJIKUMAR/main/assets/blinking-cursor.svg" width="18" alt="Blinking cursor"/>
+</div>
+
 ## Focus
 
 - Infrastructure and deployment automation
