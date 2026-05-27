@@ -9,7 +9,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ANISHSAJIKUMAR-00FF9F?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ANISHSAJIKUMAR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Saji%20Kumar-4C9EFF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/anish-saji-kumar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anishsajikumar.github.io-D4A373?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://anishsajikumar.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Saji%20Kumar-4C9EFF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/anish-kumar-sre-devops/)
 [![Location](https://img.shields.io/badge/Kerala%2C%20India-UTC%2B5%3A30-FF4500?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D1117)](https://github.com/ANISHSAJIKUMAR)
 
 </div>
@@ -72,19 +73,12 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
 
 <div align="center">
 
-<table width="100%" cellpadding="10" cellspacing="0" border="1" bordercolor="#00FF9F" style="border-collapse: collapse; background: #0D1117; box-shadow: 0 0 18px rgba(0, 255, 159, 0.22), 0 0 28px rgba(76, 158, 255, 0.14);">
-  <tr>
-    <th colspan="2" align="center">Live GitHub Stats</th>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ANISHSAJIKUMAR&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00FF9F&icon_color=4C9EFF&text_color=C9D1D9&bg_color=0D1117" height="180" alt="GitHub stats"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANISHSAJIKUMAR&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9F&fire=FF4500&currStreakLabel=4C9EFF" height="180" alt="GitHub streak stats"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANISHSAJIKUMAR&theme=github_dark" width="100%" alt="GitHub profile summary"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANISHSAJIKUMAR&theme=github_dark" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANISHSAJIKUMAR&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9F&fire=FF4500&currStreakLabel=4C9EFF" width="48%" alt="GitHub streak stats"/>
 
 </div>
 
@@ -108,7 +102,11 @@ I’m actively targeting DevOps and SRE projects that fit my stack:
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="https://www.linkedin.com/in/anish-saji-kumar/">Anish Saji Kumar</a></td>
+    <td><a href="https://www.linkedin.com/in/anish-kumar-sre-devops/">Anish Saji Kumar</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://anishsajikumar.github.io/">anishsajikumar.github.io</a></td>
   </tr>
 </table>
 
